@@ -29,7 +29,7 @@ The data comes from [coffeeOrdersData.xlsx](coffeeOrdersData.xlsx) comprising th
 
 ### 1. Sales Timeline
 
-[images/sales_timeline](sales_timeline.png)
+![sales_timeline](images/sales_timeline.png)
 
 - Use a timeline to display all sales dates.
 - Interactive graph showing sales trends over time
