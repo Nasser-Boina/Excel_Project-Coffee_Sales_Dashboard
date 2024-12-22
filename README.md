@@ -29,7 +29,7 @@ The data comes from ![coffeeOrdersData.xlsx](coffeeOrdersData.xlsx) comprising t
 
 ### 1. Sales Timeline
 
-![/images/sales_timeline.png](sales_timeline.png)
+![images/sales_timeline.png](sales_timeline.png)
 
 - Use a timeline to display all sales dates.
 - Interactive graph showing sales trends over time
@@ -37,38 +37,38 @@ The data comes from ![coffeeOrdersData.xlsx](coffeeOrdersData.xlsx) comprising t
 
 ### 2. Sales by Roast Type
 
-![/images/sales_by_roast_type.png](sales_by_roast_type.png)
+![images/sales_by_roast_type.png](sales_by_roast_type.png)
 
 - Interactive slicer based on roast type to filter data according to customer preferences.
 
 ### 3. Sales by Size
 
-![/images/sales_by_size.png](sales_by_size.png)
+![images/sales_by_size.png](sales_by_size.png)
 
 - Interactive slicer on product size to analyse the impact of size on sales.
 
 ### 4. Loyalty Card
 
-![/images/loyalty_card.png](loyalty_card.png)
+![images/loyalty_card.png](loyalty_card.png)
 
 - Interactive slicer for analysing sales to customers with a loyalty card compared with those without.
 
 ### 5. Sales by Coffe Type
 
-![/images/sales_by_coffee_type.png](sales_by_coffee_type.png)
+![images/sales_by_coffee_type.png](sales_by_coffee_type.png)
 
 - Pivot chart showing sales trends by coffee type (e.g. Robusta, Excelsa, Arabica, Liberica).
 - Shows sales trends by coffee type.
 
 ### 6. Sales by Country
 
-![/images/sales_by_country.png](sales_by_country.png)
+![images/sales_by_country.png](sales_by_country.png)
 
 - Bar chart showing the number of sales by country, to identify key markets.
 
 ### 7. Top 5 Customers
 
-!/images/[top_5_custumers.png](top_5_custumers.png)
+![images/top_5_custumers.png](top_5_custumers.png)
 
 - Bar graph illustrating the 5 largest customers in terms of sales volume, to identify the most important customers.
 
