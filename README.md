@@ -20,7 +20,7 @@ The following Excel skills were used to analyse and create the dashboard:
 
 ## Data used
 
-The data comes from ![coffeeOrdersData.xlsx](coffeeOrdersData.xlsx) comprising three data sheets:
+The data comes from [coffeeOrdersData.xlsx](coffeeOrdersData.xlsx) comprising three data sheets:
 - **Orders:** Contains information on orders.
 - **Customers:** Details customer information.
 - **Products:** Provides product information.
@@ -29,7 +29,7 @@ The data comes from ![coffeeOrdersData.xlsx](coffeeOrdersData.xlsx) comprising t
 
 ### 1. Sales Timeline
 
-[images/sales_timeline.png](sales_timeline.png)
+[images/sales_timeline](sales_timeline.png)
 
 - Use a timeline to display all sales dates.
 - Interactive graph showing sales trends over time
