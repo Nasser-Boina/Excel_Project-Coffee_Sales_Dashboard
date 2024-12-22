@@ -37,7 +37,7 @@ The data comes from ![coffeeOrdersData.xlsx](coffeeOrdersData.xlsx) comprising t
 
 ### 2. Sales by Roast Type
 
-![images:sales_by_roast_type.png](sales_by_roast_type.png)
+![images/sales_by_roast_type.png](sales_by_roast_type.png)
 
 - Interactive slicer based on roast type to filter data according to customer preferences.
 
@@ -49,7 +49,7 @@ The data comes from ![coffeeOrdersData.xlsx](coffeeOrdersData.xlsx) comprising t
 
 ### 4. Loyalty Card
 
-![images:loyalty_card.png](loyalty_card.png)
+![images/loyalty_card](loyalty_card.png)
 
 - Interactive slicer for analysing sales to customers with a loyalty card compared with those without.
 
@@ -62,7 +62,7 @@ The data comes from ![coffeeOrdersData.xlsx](coffeeOrdersData.xlsx) comprising t
 
 ### 6. Sales by Country
 
-![images:sales_by_country.png](sales_by_country.png)
+![images/sales_by_country.png](sales_by_country.png)
 
 - Bar chart showing the number of sales by country, to identify key markets.
 
